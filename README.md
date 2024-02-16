@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [100-Python-Projects-Challenge](https://github.com/SinisterHack/Python-Projects)
+
 - 🌱 I’m currently learning **Ethical Hacking, Web Application Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinisterHack](https://github.com/SinisterHack)
